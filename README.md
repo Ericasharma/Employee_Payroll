@@ -117,12 +117,7 @@ OR use Live Server.
 ---
 
 ## 👨‍💻 Author
-
-Raj Sirohi
-
-* GitHub: https://github.com/rajsirohi23
-* LinkedIn: https://www.linkedin.com/in/raj-sirohi-64b330289/
-
+ Erica Sharma
 ---
 
 ⭐ If you like this project, give it a star!
